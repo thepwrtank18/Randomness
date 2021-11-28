@@ -1,7 +1,7 @@
 # Randomness
 
 ## What does it do?
-Well, what do you want it to do? Well, rather, what does everyone want it to do.
+Well, what do you want it to do? Well, rather, what everyone wants it to do.
 
 ## How does it work?
 The program you downloaded has 1 thing to do, and it's to download this file, and run it's code: https://github.com/thepwrtank18/Randomness/blob/master/code.cs

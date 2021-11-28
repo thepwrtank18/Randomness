@@ -1,6 +1,6 @@
 // Your code goes here. Yes, yours!
 
 using System;
-
-Console.WriteLine("Hello, world!");
+var text = "Hello, world!";
+Console.WriteLine(text);
 Console.ReadKey();
